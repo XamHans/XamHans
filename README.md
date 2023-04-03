@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Johannes
-- 👀 I’m interested in dApp Fullstack Development and all hot topics about Web3.
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on projects to shape the future of Web3.
+- 👀 I’m interested in Fullstack Development and SaaS
+- 🌱 I’m currently building with Next.js & Supabase
+- 💞️ I’m looking to collaborate on projects to become an indiehacker.
 
-  Currently building NewDevsOnTheBlock (https://newdevsontheblock.com) - to help devs getting into Web3.
+ 
 
 <!---
 XamHans/XamHans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
