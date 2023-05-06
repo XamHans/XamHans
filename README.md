@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johannes
-- 👀 I’m interested in Fullstack Development and SaaS
-- 🌱 I’m currently building with Next.js & Supabase
-- 💞️ I’m looking to collaborate on projects to become an indiehacker.
+- 👀 I’m interested in cloud, web3 and web development
+- More about me [here](https://jhayer.tech)
+
 
  
 
