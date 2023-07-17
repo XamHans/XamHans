@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Johannes
-- 👀 I’m interested in cloud, web3 and web development
+- 👀 I am here to build great stuff in order to help people before I have to go.
+ 
 - More about me [here](https://jhayer.tech)
 
 
